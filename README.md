@@ -11,3 +11,9 @@ Each ticket follows a structured incident format including:
 - Preventive recommendations
 
 The focus is on L1/L2 end-user support scenarios commonly handled in enterprise environments.
+
+## Incident Tickets
+
+1. Network Printer Connection Issue
+2. RDP Connection Failure
+3. VPN Access Configuration
